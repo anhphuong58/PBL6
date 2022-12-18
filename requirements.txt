@@ -1,0 +1,7 @@
+django~=2.2
+djangorestframework
+markdown 
+django-filter
+numpy
+opencv-python
+tensorflow
